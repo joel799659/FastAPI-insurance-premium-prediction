@@ -1,1 +1,0 @@
-# FastAPI-insurance-premium-prediction
